@@ -1,0 +1,6 @@
+{
+  "name": "Rave Watch Party",
+  "description": "Совместный просмотр видео в комнатах по кодам: YouTube, VK видео, локальные медиафайлы, синхронный плеер, чат и неоновый Liquid Glass стиль",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
